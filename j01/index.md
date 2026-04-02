@@ -6,7 +6,7 @@ As a college student in Chico, I'm always looking for cheap furniture. Recently,
  
 When I pulled up chico.craigslist.org, I was confused since there were just too many words on my screen. The entire site was on one page. Community, housing, jobs, services, for sale, discussion forums, and gigs all laid out in columns of blue links.
  
-![Craigslist Chico homepage](assets/homepage.png)
+![Craigslist Chico homepage](../assets/homepage.png)
  
 The only good thing is that it is somewhat organized. The categories are grouped under headers like "for sale" and "housing." But every link looks the same the font, size, and same blue color. Nothing stands out. There are no visuals or hierarchy telling you where to go first. It feels like this site was built 20 years ago and never touched again.
  
@@ -16,7 +16,7 @@ That's where my **mental model** was not what I was expecting. A **mental model*
  
 My initial goal was to just find a desk near me in Chico. Looking at the "for sale" section, there are easily 40+ links. I hovered my mouse over a few before clicking "furniture," but honestly it wasn't obvious. The category links looked more like labels or borders than actual buttons. There was nothing that indicated they could be clicked just regular blue text.
  
-![Craigslist for sale categories](assets/forsale.png)
+![Craigslist for sale categories](../assets/forsale.png)
  
 This connects with **learnability**, which is how easy it is for someone to figure out how to use something for the first time. A website with good learnability doesn't make you second-guess yourself. On Facebook Marketplace, you really just type what you want in one search bar and you're done. On Craigslist, I had to scan through a massive list and figure out which category a desk falls under.
  
@@ -24,7 +24,7 @@ This connects with **learnability**, which is how easy it is for someone to figu
  
 After clicking into the "for sale" section and typing "desk," I got my results.
  
-![Craigslist search results for desk](assets/searchresults.png)
+![Craigslist search results for desk](../assets/searchresults.png)
  
 The results showed up with photos in a grid, which was nice. But the left sidebar is where things got overwhelming. There are filters for everything, and some don't even make sense like "cryptocurrency ok" or "make and model." It felt like they just threw every possible filter on the page.
  
@@ -32,7 +32,7 @@ This ties into **recognition vs. recall**, which is the idea that good design he
  
 ## The Listing
  
-![Craigslist individual desk listing](assets/listings.png)
+![Craigslist individual desk listing](../assets/listings.png)
  
 I clicked on a desk and the page is about as bare bones as it gets. One photo, a title with the price, a short description the seller typed in, and a map. There are a few small buttons: reply, favorite, hide, flag, and share. The "reply" button was easy enough to spot since it's the only button with a unique color. But calling it "reply" is a weird choice on any other marketplace you'd see something like "Message Seller," making it immediately clear who you're contacting. Someone could easily confuse "reply" with leaving a review or a comment if they've never used Craigslist before.
  
